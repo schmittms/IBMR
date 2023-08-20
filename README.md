@@ -1,1 +1,1 @@
-Public repo for IBMR
+Public repo for IBMR. Code will be released on publication of preprint.
